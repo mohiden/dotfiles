@@ -1,0 +1,6 @@
+{
+  "diagnostics.globals": ["vim", "spec", "keymap",
+        "v",
+        "im",
+        "nvim_create_autocmd"]
+}
